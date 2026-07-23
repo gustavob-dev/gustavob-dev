@@ -12,7 +12,7 @@
 
 ## Sobre mim
 
-Estudante de Sistemas de Informação na Universidade Federal do Amazonas (UFAM), atualmente no 4º período, com formação orientada ao desenvolvimento Full Stack. Tenho interesse particular em Engenharia de Software, Arquitetura de Sistemas, Desenvolvimento Web, Experiência do Usuário e Inteligência Artificial / Machine Learning.
+Estudante de Engenharia de Software na Universidade Federal do Amazonas (UFAM), atualmente no 4º período, com formação orientada ao desenvolvimento Full Stack. Tenho interesse particular em Engenharia de Software, Arquitetura de Sistemas, Desenvolvimento Web, Experiência do Usuário e Inteligência Artificial / Machine Learning.
 
 Possuo experiência prática no desenvolvimento de aplicações com React, TypeScript, Flask e PostgreSQL, sempre buscando construir soluções escaláveis, intuitivas e bem estruturadas. Busco aprimorar continuamente meus conhecimentos por meio de projetos práticos e estudos constantes, valorizando organização, boas práticas de desenvolvimento, documentação e código limpo.
 
