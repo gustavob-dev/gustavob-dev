@@ -4,8 +4,6 @@
 
 ### Software Engineering Student · Full Stack Developer
 
-**React • TypeScript • Python**
-
 </div>
 
 ---
