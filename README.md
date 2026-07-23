@@ -56,8 +56,8 @@ Possuo experiência prática no desenvolvimento de aplicações com React, TypeS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gustazwr&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustazwr&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?user=gustazwr&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?user=gustazwr&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 <img src="https://streak-stats.demolab.com/?user=gustazwr&theme=tokyonight&hide_border=true" width="70%" />
 
