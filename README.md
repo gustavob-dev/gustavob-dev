@@ -50,22 +50,16 @@ Possuo experiência prática no desenvolvimento de aplicações com React, TypeS
 
 ---
 
-## Objetivos
-
-> Meu objetivo é desenvolver soluções modernas, escaláveis e intuitivas, evoluindo continuamente como desenvolvedor e contribuindo para projetos que gerem impacto real.
-
----
-
 ## Estatísticas
 
 <!-- Substitua "SEU-USUARIO" pelo seu usuário do GitHub em todos os links abaixo -->
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=gustazwr&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustazwr&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
-<img src="https://streak-stats.demolab.com/?user=SEU-USUARIO&theme=tokyonight&hide_border=true" width="70%" />
+<img src="https://streak-stats.demolab.com/?user=gustazwr&theme=tokyonight&hide_border=true" width="70%" />
 
 </div>
 
