@@ -2,7 +2,7 @@
 
 # Olá, sou Gustavo Barros
 
-### Software Engineering Student · Full Stack Developer
+### Software Engineering Student · Full Stack Enthusiast
 
 </div>
 
