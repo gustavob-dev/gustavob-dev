@@ -76,23 +76,7 @@ Busco evoluir através de projetos práticos, estudos constantes e desenvolvimen
 
 ---
 
-## `04` // GITHUB STATS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gustazwr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustazwr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="41%"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=gustazwr&theme=tokyonight&hide_border=true" width="70%"/>
-
-</div>
-
----
-
-## `05` // CONNECT
+## `04` // CONNECT
 
 <div align="center">
 
